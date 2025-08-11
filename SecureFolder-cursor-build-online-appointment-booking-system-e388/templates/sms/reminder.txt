@@ -1,0 +1,2 @@
+Terminerinnerung: Ihr Termin ist morgen um {{appointmentTime}} Uhr. 
+Falls Sie den Termin nicht wahrnehmen können, stornieren Sie bitte unter: {{cancellationUrl}}
